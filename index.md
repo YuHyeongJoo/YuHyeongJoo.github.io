@@ -1,36 +1,11 @@
 ## Welcome to GitHub Pages
 
-한동대학교 전산전자공학부 유형주 github page
+Yu HyeongJoo's github page
 
 
-### Markdown
+### 소개
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YuHyeongJoo/YuHyeongJoo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. 한동대학교 재학 중(4학기)
+2. 전산전자공학부/컴퓨터공학 심화 전공
+3. SW 와 HW의 전문지식을 배움으로써 웹, 모바일, 인공지능, 게임, 가상현실 등 여러 분야의 전문가를 육성하기 위한 전공
+4. 지금까지 진행한 프로젝트 게시하기 위한 페이지.
